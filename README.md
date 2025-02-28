@@ -170,16 +170,6 @@ dependencies {
 
 <br>
 
-# 👉 컨벤션 정리
-[코드 컨벤션 정리 링크](https://www.notion.so/stephenkiim/137f2114decc444bbf308520a340238e)
-
-<br>
-
-
-# 👉 팀 블로깅  
-[팀 블로그 링크](https://www.notion.so/stephenkiim/23dafc6dac1649318bc1bc1ece61c2fd)
-
-<br>
 
 # 👉 핵심 시나리오 시연
 ### 🔹브랜드 아이템 등록
